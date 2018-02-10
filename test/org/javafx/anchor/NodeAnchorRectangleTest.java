@@ -73,7 +73,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorTopTop() {
-      System.out.println("NodeAnchorTest : testAnchorTopTop");
+      System.out.println("NodeAnchorRectangleTest : testAnchorTopTop");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -110,7 +110,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorBottomBottom() {
-      System.out.println("NodeAnchorTest : testAnchorBottomBottom");
+      System.out.println("NodeAnchorRectangleTest : testAnchorBottomBottom");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -147,7 +147,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorLeftLeft() {
-      System.out.println("NodeAnchorTest : testAnchorLeftLeft");
+      System.out.println("NodeAnchorRectangleTest : testAnchorLeftLeft");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -184,7 +184,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorRightRight() {
-      System.out.println("NodeAnchorTest : testAnchorRightRight");
+      System.out.println("NodeAnchorRectangleTest : testAnchorRightRight");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -221,7 +221,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorTopBottom() {
-      System.out.println("NodeAnchorTest : testAnchorTopBottom");
+      System.out.println("NodeAnchorRectangleTest : testAnchorTopBottom");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -258,7 +258,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorBottomTop() {
-      System.out.println("NodeAnchorTest : testAnchorBottomTop");
+      System.out.println("NodeAnchorRectangleTest : testAnchorBottomTop");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -295,7 +295,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorLeftRight() {
-      System.out.println("NodeAnchorTest : testAnchorLeftRight");
+      System.out.println("NodeAnchorRectangleTest : testAnchorLeftRight");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -332,7 +332,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorRightLeft() {
-      System.out.println("NodeAnchorTest : testAnchorRightLeft");
+      System.out.println("NodeAnchorRectangleTest : testAnchorRightLeft");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -369,7 +369,7 @@ public class NodeAnchorRectangleTest {
     */
    @Test
    public void testAnchorFill() {
-      System.out.println("NodeAnchorTest : testAnchorFill");
+      System.out.println("NodeAnchorRectangleTest : testAnchorFill");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 

@@ -74,7 +74,7 @@ public class NodeAnchorEllipseTest {
     */
    @Test
    public void testAnchorRightLeft() {
-      System.out.println("NodeAnchor3Test : testAnchorRightLeft");
+      System.out.println("NodeAnchorEllipseTest : testAnchorRightLeft");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -111,7 +111,7 @@ public class NodeAnchorEllipseTest {
     */
    @Test
    public void testAnchorLeftRight() {
-      System.out.println("NodeAnchor3Test : testAnchorLeftRight");
+      System.out.println("NodeAnchorEllipseTest : testAnchorLeftRight");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -148,7 +148,7 @@ public class NodeAnchorEllipseTest {
     */
    @Test
    public void testAnchorTopBottom() {
-      System.out.println("NodeAnchor3Test : testAnchorTopBottom");
+      System.out.println("NodeAnchorEllipseTest : testAnchorTopBottom");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 

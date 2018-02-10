@@ -76,7 +76,7 @@ public class NodeAnchorTextTest {
     */
    @Test
    public void testAnchorRightLeft() {
-      System.out.println("NodeAnchor2Test : testAnchorRightLeft");
+      System.out.println("NodeAnchorTextTest : testAnchorRightLeft");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 

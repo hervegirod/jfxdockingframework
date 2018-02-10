@@ -74,7 +74,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorRightLeft() {
-      System.out.println("NodeAnchor2Test : testAnchorRightLeft");
+      System.out.println("NodeAnchorCircleTest : testAnchorRightLeft");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -109,7 +109,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorLeftRight() {
-      System.out.println("NodeAnchor2Test : testAnchorLeftRight");
+      System.out.println("NodeAnchorCircleTest : testAnchorLeftRight");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -144,7 +144,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorBottomTop() {
-      System.out.println("NodeAnchor2Test : testAnchorBottomTop");
+      System.out.println("NodeAnchorCircleTest : testAnchorBottomTop");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -179,7 +179,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorTopBottom() {
-      System.out.println("NodeAnchor2Test : testAnchorTopBottom");
+      System.out.println("NodeAnchorCircleTest : testAnchorTopBottom");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -214,7 +214,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorTopTop() {
-      System.out.println("NodeAnchor2Test : testAnchorTopTop");
+      System.out.println("NodeAnchorCircleTest : testAnchorTopTop");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -249,7 +249,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorBottomBottom() {
-      System.out.println("NodeAnchor2Test : testAnchorBottomBottom");
+      System.out.println("NodeAnchorCircleTest : testAnchorBottomBottom");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -284,7 +284,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorLeftLeft() {
-      System.out.println("NodeAnchor2Test : testAnchorLeftLeft");
+      System.out.println("NodeAnchorCircleTest : testAnchorLeftLeft");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 
@@ -319,7 +319,7 @@ public class NodeAnchorCircleTest {
     */
    @Test
    public void testAnchorRightRight() {
-      System.out.println("NodeAnchor2Test : testAnchorRightRight");
+      System.out.println("NodeAnchorCircleTest : testAnchorRightRight");
       Rectangle rec1 = new Rectangle();
       rec1.setFill(Color.YELLOW);
 

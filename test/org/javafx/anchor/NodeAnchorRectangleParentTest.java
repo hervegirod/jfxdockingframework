@@ -74,7 +74,7 @@ public class NodeAnchorRectangleParentTest {
     */
    @Test
    public void testAnchorTopBottom() {
-      System.out.println("NodeAnchorTest : testAnchorTopBottom");
+      System.out.println("NodeAnchorRectangleParentTest : testAnchorTopBottom");
       Pane rec1 = new Pane();
       rec1.setStyle("-fx-background-color: yellow;");
 
@@ -106,7 +106,7 @@ public class NodeAnchorRectangleParentTest {
     */
    @Test
    public void testAnchorBottomTop() {
-      System.out.println("NodeAnchorTest : testAnchorBottomTop");
+      System.out.println("NodeAnchorRectangleParentTest : testAnchorBottomTop");
       Pane rec1 = new Pane();
       rec1.setStyle("-fx-background-color: yellow;");
 
@@ -138,7 +138,7 @@ public class NodeAnchorRectangleParentTest {
     */
    @Test
    public void testAnchorLeftRight() {
-      System.out.println("NodeAnchorTest : testAnchorLeftRight");
+      System.out.println("NodeAnchorRectangleParentTest : testAnchorLeftRight");
       Pane rec1 = new Pane();
       rec1.setStyle("-fx-background-color: yellow;");
 
@@ -170,7 +170,7 @@ public class NodeAnchorRectangleParentTest {
     */
    @Test
    public void testAnchorRightLeft() {
-      System.out.println("NodeAnchorTest : testAnchorRightLeft");
+      System.out.println("NodeAnchorRectangleParentTest : testAnchorRightLeft");
       Pane rec1 = new Pane();
       rec1.setStyle("-fx-background-color: yellow;");
 
