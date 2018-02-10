@@ -1,9 +1,9 @@
 # jfxdockingframework
-A JavaFX docking framework experiment, a la QML. Maybe one time such a framework will be integrated in JavaFX.
+A JavaFX docking framework experiment, a la QML. Maybe one time such a framework will be integrated in JavaFX. Note that the code is
+derived from my own code from another project called [MDIUtilities](https://sourceforge.net/projects/mdiutilities/).
 
 It adds new layouts such as those already available in the javafx.scene.layout package, but which work similar to 
-the [QML anchor-based 
-layouts](http://doc.qt.io/archives/qt-4.8/qml-anchor-layout.html).
+the [QML anchor-based layouts](http://doc.qt.io/archives/qt-4.8/qml-anchor-layout.html).
 
 ## Overview
 The principal class of the package is the NodeAnchor class. It provides an anchor mechanism similar to the one which is used in QML. 
