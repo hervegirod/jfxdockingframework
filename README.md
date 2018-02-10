@@ -17,8 +17,8 @@ The principal class of the package is the NodeAnchor class. It provides an ancho
 ## Usage
 This class defines bindings between Nodes. To use this class, you should:
 
-    Use the NodeAnchor class to define the anchors between the Nodes. The usual way to perform this is to create an instance of the class and specify the reference Node at the class creation,a d specify the ancoring of other Nodes relative to this Node
-    Put the Nodes normally in a Pane
+*Use the NodeAnchor class to define the anchors between the Nodes. The usual way to perform this is to create an instance of the class and specify the reference Node at the class creation,a d specify the ancoring of other Nodes relative to this Node
+*Put the Nodes normally in a Pane
 
 ## Example
 In the following example, a rectangle and a text are put on top of each other:
