@@ -12,7 +12,7 @@ However, contrary to QML, it also manages several Shape classes. Shapes which ar
 + javafx.scene.layout.Region
 + javafx.scene.shape.Rectangle
 + javafx.scene.shape.Circle
-+  javafx.scene.shape.Ellipse
++ javafx.scene.shape.Ellipse
 + javafx.scene.shape.Arc
 + javafx.scene.text.Text
 
